@@ -181,25 +181,15 @@ input[type="checkbox"] {
 }
 /* responsive navbar part end  */
 
-/* header part start */
-
-/* header logo part end */
-
-/* header input part start */
-
-/* header input part end */
-
-/* header menu part start */
-
-/* header menu part end */
-/* header part end */
-
 /* hero part start*/
+
 #hero {
   padding: 50px 30px 50px 30px;
   background: #e9ebee;
 }
+
 /* hero_img part start */
+
 .hero_part {
   /* display: flex; */
   width: 100%;
