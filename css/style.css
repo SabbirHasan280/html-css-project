@@ -362,6 +362,9 @@ input[type="checkbox"] {
 /* hero_category part end */
 
 /* hero part end*/
+
+/* similar part start */
+
 #similar {
   width: 100%;
   padding: 30px 30px 50px 30px;
@@ -533,3 +536,4 @@ input[type="checkbox"] {
   font-weight: 400;
   color: rgb(123, 120, 120);
 }
+/* similar part end */
