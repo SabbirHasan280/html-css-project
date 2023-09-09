@@ -276,13 +276,11 @@ input[type="checkbox"] {
   }
 }
 
-/* 640px mobile device */
 @media screen and (max-width: 640px) {
   .category_move {
     width: 100%;
     margin: 0 auto;
     margin-left: 20px;
-    /* gap: 8px; */
   }
   .category_move li a {
     font-size: 9px !important;
