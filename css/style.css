@@ -139,12 +139,10 @@ input[type="checkbox"] {
   #navbar ul {
     display: flex;
     flex-direction: column;
-    /* background: rgb(45, 162, 168); */
     background: white;
     height: 0;
     visibility: hidden;
     transition: 0.3s;
-    /* width: 200px; */
   }
   #navbar ul li {
     text-align: center;
