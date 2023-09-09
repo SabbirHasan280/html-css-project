@@ -400,9 +400,7 @@ input[type="checkbox"] {
   text-align: center;
 }
 .similar_all {
-  /* display: flex; */
   gap: 35px;
-  /* padding: 10px 0px; */
 }
 @media screen and (min-width: 1024px) {
   .similar_all {
